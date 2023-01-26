@@ -8,7 +8,7 @@ import PortfolioDetails from "./pages/PortfolioDetails";
 
 // Import Css Here 
 import './assets/scss/style.scss';
-import './app.css'
+import './App.css'
 
 
 const App = () => {
